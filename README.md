@@ -1,20 +1,18 @@
-# Assignment-13-Text-Mining-Webscrapping
+# Assignment-13-Amazon reviews Webscrapping using BeautifulSoup
 
-Q) For Text Mining assignment
+For this project, I have selected randomly a product from amazon that is Nike Running Shoes.
 
-1)Extract reviews of any product from ecommerce website like amazon
+Steps-Steps involved in webscraping the products's information(Nike Running Shoes) from amazon website using BeautifulSoup are:-
 
-Steps-Web scraping(review extraction) from amazon:-
-
-Importing the libraries,
-Get the link,
-Get the page content,
-creating soup object to iterate over the extracted content,
-To get the html doc type,
-To get the profile names,
-To extract the customer names,
-To extract the review title,
-To extract the ratings,
-To extract the content of the review
+Step-1) Importing the libraries,
+Step 2) Getting the link,
+Step3) Getting the page content,
+Step 4) creating soup object to iterate over the extracted content,
+Step 5) To get the html doc type,
+Step 6) To get the profile names,
+Step 7) To extract the customer names,
+Step 8) To extract the review title,
+Step 9) To extract the ratings,
+Step 10) To extract the content of the review.
 
 
