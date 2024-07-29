@@ -2,7 +2,7 @@
 
 For this project, I have selected randomly a product from amazon that is Nike Running Shoes.
 
-Steps-Steps involved in webscraping the products's information(Nike Running Shoes) from amazon website using BeautifulSoup are:-
+Steps-I have scraped the products's information (Nike Running Shoes) from amazon website using BeautifulSoup and the steps involved are mentioned below:-
 
 Step-1) Importing the libraries,
 Step 2) Getting the link,
