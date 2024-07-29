@@ -1,4 +1,4 @@
-# Assignment-13-Amazon reviews Webscrapping using BeautifulSoup
+# Assignment-13-Amazon reviews webscrapping using BeautifulSoup
 
 For this project, I have selected randomly a product from amazon that is Nike Running Shoes.
 
