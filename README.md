@@ -1,27 +1,92 @@
-# Assignment-13-Amazon reviews webscrapping using BeautifulSoup
+## Amazon Reviews Web Scraping – Nike Running Shoes (BeautifulSoup)
 
-For this project, I have selected randomly a product from amazon that is Nike Running Shoes.
+📌 Project Overview
 
-Steps-I have scraped the products's information (Nike Running Shoes) from amazon website using BeautifulSoup and the steps involved are mentioned below:-
+This project extracts customer reviews of Nike Running Shoes from Amazon using BeautifulSoup. The script scrapes key details such as reviewer names, review titles, ratings, and review content.
 
-Step-1) Importing the libraries,
+📊 Features
 
-Step 2) Getting the link,
+Extracts customer names, review titles, ratings, and review content.
 
-Step3) Getting the page content,
+Utilizes BeautifulSoup for parsing Amazon’s webpage.
 
-Step 4) creating soup object to iterate over the extracted content,
+Saves the extracted data for further analysis.
 
-Step 5) To get the html doc type,
+🛠️ Technologies Used
 
-Step 6) To get the profile names,
+Python
 
-Step 7) To extract the customer names,
+BeautifulSoup (for web scraping)
 
-Step 8) To extract the review title,
+Requests (to fetch webpage content)
 
-Step 9) To extract the ratings,
+Pandas (for data storage and manipulation)
 
-Step 10) To extract the content of the review.
+📌 Steps Involved
 
+Importing required libraries
 
+Fetching the Amazon product page (Nike Running Shoes)
+
+Parsing the HTML content using BeautifulSoup
+
+Extracting relevant details:
+
+Product name
+
+Customer profile names
+
+Review titles
+
+Ratings
+
+Review content
+
+Storing the scraped data for analysis
+
+📥 Installation
+
+Ensure you have Python 3.x installed, then install the required libraries:
+
+pip install requests beautifulsoup4 pandas
+
+🚀 How to Run the Script
+
+Clone the repository:
+
+git clone https://github.com/yourusername/amazon-reviews-scraper.git
+cd amazon-reviews-scraper
+
+Run the Python script:
+
+python amazon_reviews_scraper.py
+
+📌 Sample Output
+
+Reviewer Name
+
+Review Title
+
+Rating
+
+Review Content
+
+John Doe
+
+Great Shoes!
+
+⭐⭐⭐⭐⭐
+
+Very comfortable and durable!
+
+Jane Smith
+
+Not Bad
+
+⭐⭐⭐
+
+Good for running, but a bit pricey.
+
+⚠️ Disclaimer
+
+This project is for educational purposes only and does not promote unauthorized web scraping. 
