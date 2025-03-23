@@ -46,47 +46,10 @@ Storing the scraped data for analysis
 
 📥 Installation
 
-Ensure you have Python 3.x installed, then install the required libraries:
+Install Python 3.x, then install the required libraries:
 
 pip install requests beautifulsoup4 pandas
 
-🚀 How to Run the Script
-
-Clone the repository:
-
-git clone https://github.com/yourusername/amazon-reviews-scraper.git
-
-cd amazon-reviews-scraper
-
-Run the Python script:
-
-python amazon_reviews_scraper.py
-
-📌 Sample Output
-
-Reviewer Name
-
-Review Title
-
-Rating
-
-Review Content
-
-John Doe
-
-Great Shoes!
-
-⭐⭐⭐⭐⭐
-
-Very comfortable and durable!
-
-Jane Smith
-
-Not Bad
-
-⭐⭐⭐
-
-Good for running, but a bit pricey.
 
 ⚠️ Disclaimer
 
