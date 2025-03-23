@@ -55,6 +55,7 @@ pip install requests beautifulsoup4 pandas
 Clone the repository:
 
 git clone https://github.com/yourusername/amazon-reviews-scraper.git
+
 cd amazon-reviews-scraper
 
 Run the Python script:
